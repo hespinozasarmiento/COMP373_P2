@@ -11,7 +11,9 @@ We also noticed from running on different computers that there is sometimes a wa
 WHAT IS BEING INDENTIFIED IN THIS PROJECT?
 
 •	Spring container configuration for Dependency Injection for the application that you developed in Project 1.
+
 •	Using ApplicationContext Mechanism
+
 •	Dependency relationship using XML
 
 CHANGES FROM PROJECT 1 
