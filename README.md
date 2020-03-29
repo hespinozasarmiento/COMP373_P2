@@ -22,8 +22,8 @@ Due to the many problems we were facing with project 1, we decided to redo the e
 
 ### CREDIT
 
-ANISSA CRISTERNA
+Anissa Cristerna 
 
-HENRY ESPINOZA 
+Henry Espinoza 
 
-IRFAN POLJAK
+Irfan Poljak
